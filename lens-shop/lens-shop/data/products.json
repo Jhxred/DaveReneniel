@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Canon EOS R50", "brand": "Canon", "type": "Mirrorless", "price": 679.00, "stock": 12, "desc": "Compact mirrorless camera, great for beginners and vloggers."},
+  {"id": 2, "name": "Nikon D3500", "brand": "Nikon", "type": "DSLR", "price": 499.00, "stock": 8, "desc": "Entry-level DSLR with long battery life and 24MP sensor."},
+  {"id": 3, "name": "Sony Alpha a7 III", "brand": "Sony", "type": "Mirrorless", "price": 1799.00, "stock": 4, "desc": "Full-frame mirrorless with excellent low light performance."},
+  {"id": 4, "name": "Fujifilm X-T30 II", "brand": "Fujifilm", "type": "Mirrorless", "price": 899.00, "stock": 6, "desc": "Retro-styled body with amazing film simulations."},
+  {"id": 5, "name": "Canon EOS 90D", "brand": "Canon", "type": "DSLR", "price": 1199.00, "stock": 3, "desc": "32.5MP APS-C DSLR, fast burst shooting for sports and wildlife."},
+  {"id": 6, "name": "Panasonic Lumix G7", "brand": "Panasonic", "type": "Mirrorless", "price": 549.00, "stock": 0, "desc": "4K video capable camera popular with student filmmakers."}
+]
